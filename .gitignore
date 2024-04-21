@@ -1,3 +1,4 @@
-epochs/
+epochs_*/
 exports/
+scores/
 __pycache__/
